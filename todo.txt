@@ -1,0 +1,6 @@
+Coloring
+hamilton path
+
+https://codeforces.com/contest/1949/problem/A
+gem store thing
+vertex cover
